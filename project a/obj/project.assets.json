@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aimee\\Documents\\Aimee\\school\\Visual Studio 2022\\Aimee projecten vs\\c#\\jaar 1\\arch 1\\project a\\project a.csproj",
+      "projectUniqueName": "C:\\Users\\aimee\\Documents\\Aimee\\school\\HR informatica\\jaar 1\\challenge weeks\\Project-Alpha-pilaarlozen-\\project a\\project a.csproj",
       "projectName": "project a",
-      "projectPath": "C:\\Users\\aimee\\Documents\\Aimee\\school\\Visual Studio 2022\\Aimee projecten vs\\c#\\jaar 1\\arch 1\\project a\\project a.csproj",
+      "projectPath": "C:\\Users\\aimee\\Documents\\Aimee\\school\\HR informatica\\jaar 1\\challenge weeks\\Project-Alpha-pilaarlozen-\\project a\\project a.csproj",
       "packagesPath": "C:\\Users\\aimee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aimee\\Documents\\Aimee\\school\\Visual Studio 2022\\Aimee projecten vs\\c#\\jaar 1\\arch 1\\project a\\obj\\",
+      "outputPath": "C:\\Users\\aimee\\Documents\\Aimee\\school\\HR informatica\\jaar 1\\challenge weeks\\Project-Alpha-pilaarlozen-\\project a\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aimee\\AppData\\Roaming\\NuGet\\NuGet.Config"
